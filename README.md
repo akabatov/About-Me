@@ -1,5 +1,5 @@
 - Hi there👋 
-- I am a Computer Science student at Mememorial University of Newfoundland.
+- I am a Computer Science student at Memorial University of Newfoundland.
 
 <!---
 akabatov/akabatov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
